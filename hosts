@@ -1,2 +1,10 @@
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
